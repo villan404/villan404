@@ -1,39 +1,95 @@
-<h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-<h3 align="center">Hello</h3>
+<div align="center">
 
-- 🔭 I’m currently working on *Kishan Kumar*
+<!-- Header Image / Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2387,E94057,F27121&height=200&section=header&text=Kishan%20Kumar&fontSize=60&fontAlignY=35&animation=twinkling" width="100%"/>
 
-- 🌱 I’m currently learning *React Js*
+<br>
 
-- 👯 I’m looking to collaborate on *Kishan Kumar*
+<i>Crafting mechanics, code, and content in the digital realm.</i>
 
-- 🤝 I’m looking for help with *Kishan Kumar*
+<br>
 
-- 💬 Ask me about *React, html*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=Building+interactive+2D+games.;Developing+custom+Discord+bots.;Designing+visual+gaming+content.;Studying+Japanese+language+and+culture.)](https://git.io/typing-svg)
 
-- 📫 How to reach me *kishankumar763421@gmail.com*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 📄 Know about my experiences [.](.)
+</div>
 
-- ⚡ Fun fact *I think i am boring.*
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/villan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/villan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="villan" height="30" width="40" /></a>
-<a href="https://fb.com/villan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="villan" height="30" width="40" /></a>
-<a href="https://instagram.com/villan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="villan" height="30" width="40" /></a>
-<a href="https://medium.com/villan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="villan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kishan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kishan kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/villan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="villan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/villan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="villan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/villan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="villan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/villan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="villan" height="30" width="40" /></a>
-</p>
+<div align="center">
+  
+### ✦ The Arsenal ✦
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=villan&show_icons=true&locale=en&layout=compact" alt="villan" /></p>
+**Logic & Architecture**  
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D" />
+<img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=239120" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=villan&show_icons=true&locale=en" alt="villan" /></p>
+<br>
+
+**Creation & Design**  
+<img src="https://img.shields.io/badge/Unity-323330?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/DaVinci_Resolve-323330?style=for-the-badge&logo=davinci-resolve&logoColor=DB433D" />
+<img src="https://img.shields.io/badge/Affinity_Designer-323330?style=for-the-badge&logo=affinity-designer&logoColor=white" />
+
+<br>
+
+**Environment**  
+<img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visual-studio&logoColor=5C2D91" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### ✦ Current Quests ✦
+
+</div>
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <b>👾 Development</b><br><br>
+      Constructing an all-in-one server moderation bot utilizing Node.js and Discord.js.
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <b>🎮 Game Mechanics</b><br><br>
+      Engineering 2D physics, UI logic, and game loops from scratch in Unity.
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <b>🎬 Visual Arts</b><br><br>
+      Color grading and cutting gameplay narratives for the LaundeKaLobby channel.
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <b>⛩️ Linguistics</b><br><br>
+      Mastering Hiragana, Katakana, and foundational Kanji in daily study routines.
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### ✦ Digital Footprint ✦
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+
+<br><br>
+
+<a href="INSERT_YOUTUBE_LINK"><img src="https://img.shields.io/badge/YouTube-282828?style=flat-square&logo=youtube&logoColor=ff0000" /></a>
+<a href="INSERT_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-282828?style=flat-square&logo=linkedin&logoColor=0077b5" /></a>
+
+</div>
